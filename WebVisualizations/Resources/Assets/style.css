@@ -1,0 +1,24 @@
+.header h1 {
+    padding: 10px;
+    margin: 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35pxpx;
+    background-color: cadetblue;
+    text-align: left;
+}
+
+.container-fluid .navbar-brand{
+    color: white;
+    height: 100px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.navbar-nav li {
+  display:inline-block;     
+}
+
