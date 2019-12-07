@@ -62,10 +62,7 @@ p{
     padding: 10px 20px 15px; 
     color:black;
     background-color: white; 
-
   }
-
-
 
 
 .box {
@@ -80,28 +77,4 @@ p{
 .table{
     font-size: 12px; 
     padding: 10px 10px 10px;
-}
-/* Media Queries */
-@media(max-width: 992px){
-.navbar-expand-lg{
-background-color:cadetblue;
-}
-.navbar{
-    max-height: none; 
-    padding: inherit;
-}
-.navbar div{
-    margin: inherit; 
-    background-color: white;  
-}
-.navbar-brand{
-    padding: 10px; 
-}
-
-button{
-    margin-right: 30px; 
-}
-button:focus {
-    outline: 1px dotted;
-    outline: 5px auto -webkit-focusring-color;
 }
